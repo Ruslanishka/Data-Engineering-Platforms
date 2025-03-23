@@ -1,0 +1,22 @@
+"column_name","data_type","character_maximum_length","is_nullable","column_default"
+"row_id","integer",NULL,"NO",NULL
+"order_id","character varying",14,"NO",NULL
+"order_date","date",NULL,"NO",NULL
+"ship_date","date",NULL,"NO",NULL
+"ship_mode","character varying",14,"NO",NULL
+"customer_id","character varying",8,"NO",NULL
+"customer_name","character varying",22,"NO",NULL
+"segment","character varying",11,"NO",NULL
+"country","character varying",13,"NO",NULL
+"city","character varying",17,"NO",NULL
+"state","character varying",20,"NO",NULL
+"postal_code","character varying",50,"YES",NULL
+"region","character varying",7,"NO",NULL
+"product_id","character varying",15,"NO",NULL
+"category","character varying",15,"NO",NULL
+"subcategory","character varying",11,"NO",NULL
+"product_name","character varying",127,"NO",NULL
+"sales","numeric",NULL,"NO",NULL
+"quantity","integer",NULL,"NO",NULL
+"discount","numeric",NULL,"NO",NULL
+"profit","numeric",NULL,"NO",NULL

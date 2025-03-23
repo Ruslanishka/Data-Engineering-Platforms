@@ -1,0 +1,3 @@
+"column_name","data_type","character_maximum_length","is_nullable","column_default"
+"returned","character varying",17,"NO",NULL
+"order_id","character varying",20,"NO",NULL

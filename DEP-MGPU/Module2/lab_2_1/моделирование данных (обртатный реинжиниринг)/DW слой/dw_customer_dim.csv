@@ -1,0 +1,4 @@
+"column_name","data_type","character_maximum_length","is_nullable","column_default"
+"cust_id","integer",NULL,"NO","nextval('dw.customer_dim_cust_id_seq'::regclass)"
+"customer_id","character varying",8,"NO",NULL
+"customer_name","character varying",22,"NO",NULL

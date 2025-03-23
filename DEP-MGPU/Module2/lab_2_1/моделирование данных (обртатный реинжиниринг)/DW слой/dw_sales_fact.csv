@@ -1,0 +1,13 @@
+"column_name","data_type","character_maximum_length","is_nullable","column_default"
+"sales_id","integer",NULL,"NO","nextval('dw.sales_fact_sales_id_seq'::regclass)"
+"cust_id","integer",NULL,"NO",NULL
+"order_date_id","integer",NULL,"NO",NULL
+"ship_date_id","integer",NULL,"NO",NULL
+"prod_id","integer",NULL,"NO",NULL
+"ship_id","integer",NULL,"NO",NULL
+"geo_id","integer",NULL,"NO",NULL
+"order_id","character varying",25,"NO",NULL
+"sales","numeric",NULL,"NO",NULL
+"profit","numeric",NULL,"NO",NULL
+"quantity","integer",NULL,"NO",NULL
+"discount","numeric",NULL,"NO",NULL

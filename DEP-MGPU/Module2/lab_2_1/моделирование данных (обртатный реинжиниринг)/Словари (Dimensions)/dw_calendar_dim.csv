@@ -1,0 +1,9 @@
+"column_name","data_type","character_maximum_length","is_nullable","column_default"
+"dateid","integer",NULL,"NO","nextval('dw.calendar_dim_dateid_seq'::regclass)"
+"year","integer",NULL,"NO",NULL
+"quarter","integer",NULL,"NO",NULL
+"month","integer",NULL,"NO",NULL
+"week","integer",NULL,"NO",NULL
+"date","date",NULL,"NO",NULL
+"week_day","character varying",20,"NO",NULL
+"leap","character varying",20,"NO",NULL

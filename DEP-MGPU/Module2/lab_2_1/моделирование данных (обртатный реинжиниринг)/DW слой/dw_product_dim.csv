@@ -1,0 +1,7 @@
+"column_name","data_type","character_maximum_length","is_nullable","column_default"
+"prod_id","integer",NULL,"NO","nextval('dw.product_dim_prod_id_seq'::regclass)"
+"product_id","character varying",50,"NO",NULL
+"product_name","character varying",127,"NO",NULL
+"category","character varying",15,"NO",NULL
+"sub_category","character varying",11,"NO",NULL
+"segment","character varying",11,"NO",NULL
