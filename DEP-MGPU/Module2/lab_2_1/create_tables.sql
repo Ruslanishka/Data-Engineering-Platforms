@@ -1,6 +1,4 @@
 -- Staging layer (stg):
-
-create schema stg;
 DROP TABLE IF EXISTS stg.orders;
 CREATE TABLE stg.orders(
 Row_ID INTEGER NOT NULL PRIMARY KEY
