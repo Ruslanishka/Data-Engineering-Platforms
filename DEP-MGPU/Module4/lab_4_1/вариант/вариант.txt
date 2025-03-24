@@ -1,0 +1,5 @@
+Вариант 24, всего вариантов 20, взял 4
+	
+HR-аналитика: анализ данных о сотрудниках, расчет KPI
+
+Human Resources Dataset (https://www.kaggle.com/datasets/rhuebner/human-resources-data-set)
