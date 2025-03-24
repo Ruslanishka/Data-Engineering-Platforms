@@ -1,0 +1,2 @@
+Мой вариант представлен не был взял ближайший "Анализ клиентского опыта"
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
